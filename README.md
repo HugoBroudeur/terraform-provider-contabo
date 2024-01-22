@@ -2,6 +2,8 @@
 
 `terraform-provider-contabo` is a [terraform](https://www.terraform.io/) provider for managing your products from [Contabo](https://contabo.com) like Cloud VPS, VDS and S3 compatible Object Storage using the [Contabo APIs](https://api.contabo.com/) via terraform cli.
 
+## This fork is used for pushing the latest Contabo openAPI schema to the terraform registry
+
 ## Getting Started
 
 * [Link to terraform page](https://registry.terraform.io/providers/contabo/contabo/latest)

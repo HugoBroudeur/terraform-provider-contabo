@@ -51,7 +51,7 @@ changelog:
   skip: true
 release:
   github:
-    owner: contabo
+    owner: HugoBroudeur
     name: terraform-provider-contabo
   extra_files:
     - glob: 'terraform-registry-manifest.json'
